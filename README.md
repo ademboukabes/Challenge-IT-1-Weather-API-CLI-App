@@ -33,9 +33,9 @@ cd Challenge-IT-1-Weather-API-CLI-
 npm install
 ```
 3.Configurer l'environnement : Créez un fichier .env à la racine du projet et ajoutez votre clé API :
-
+```env
 API_KEY=ta_cle_api_weatherapi
-
+```
 Utilisation
 
 Lancez l'application en passant le nom d'une ville en argument :
