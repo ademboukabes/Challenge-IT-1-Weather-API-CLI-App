@@ -1,0 +1,3 @@
+# Ignorer le fichier d'environnement contenant la clé API
+.env
+
